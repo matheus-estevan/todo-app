@@ -11,7 +11,15 @@ function completarTarefa(id) {
 }
 
 function descompletarTarefa(id) {
-    fetch("http://locahost:3000/completar")
+    fetch("http://localhost:3000/descompletar", {
+        method: "POST",
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ id })
+    })
+    
+    window.location.reload()
 }
 
 function alterarTema() {
