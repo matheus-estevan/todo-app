@@ -33,6 +33,7 @@ app.post('/excluir', (requisicao, resposta) => {
         resposta.redirect('/')
     })
 })
+//Não tinha conseguido ver o final do video 10 peço piedade do senhor
 
 app.post('/completar', (requisicao, resposta) => {
     const id = requisicao.body.id
