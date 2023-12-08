@@ -1,15 +1,15 @@
 <h1 align="center">
-    To-Do Web App
+    📝 To-Do Web App
 </h1>
 
-<p align="center">Bem-vindo ao meu aplicativo web To-Do! Este é um simples e intuitivo gerenciador de tarefas que permite aos usuários criar, visualizar e gerenciar suas listas de afazeres de maneira eficiente.</p>
+<p align="center">Welcome to my To-Do web application! This is a simple and intuitive task manager that allows users to create, view, and manage their to-do lists efficiently.</p>
 
 <div align="center">
-    <img src="./Github/desk-demo.gif" alt="desk-demo" height="auto"></img>
-    <img src="./Github/mob-demo.gif" alt="mob-demo"></img height="auto">
+    <img src="./Github/desk-demo.gif" alt="desk-demo" height="100"></img>
+    <img src="./Github/mob-demo.gif" alt="mob-demo"></img height="100">
 </div>
 
-## Key Features
+## 🚀 Key Features 
 
 - Task Addition: Easily create new tasks by providing a title and an optional description.
 
@@ -19,33 +19,40 @@
 
 - Intuitive and Responsive Interface: Enjoy a user-friendly experience on both mobile devices and desktops, providing convenience wherever you are.
 
+## ⚙️ How to Use
 
-## 🚀 Technologies
+- Add a Task: Click on the "Add Task" button to insert a new task. Fill in the required fields and, if desired, add a detailed description.
 
-This project was developed with the following technologies:
+- View Tasks: Navigate through the "Pending" and "Completed" sections to see your tasks organized by status.
 
-- ✅ Typescript
+- Remove Task: When a task is completed or no longer needed, use the corresponding option to remove it from the list.
 
-- ✅ ReactJS
+- Stay Organized: Keep your tasks organized by focusing on pending 
 
-- ✅ React Native
+## Technologies Used 💻
 
-- ✅ Node JS
+- ✅ Node.js
 
-- ✅ React Hooks
+- ✅ Express.js
 
-- ✅ Context API
+- ✅ Express-Handlebars
 
-- ✅ Styled-components
+- ✅ MySQL2
 
-- ✅ React Spring
+- ✅ HTML, CSS, JavaScript
 
-- ✅ Polished 
+- ✅ CSS
 
-- ✅ Docker 
+- ✅ Josefin Sans
 
-- ✅ PostgreSQL
+- ✅ MySQL
 
-- ✅ Axics
+- ✅ Git
+
+- ✅ Docker
+
+- ✅ Fetch API
+
+
 
 Made with ♥ by MATHEUS PC :wave: [Get in Touch!](https://www.likedin.com/in/matheus-estevan)
