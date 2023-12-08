@@ -6,7 +6,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="./Github/desk-demo.gif" alt="desk-demo" width="400"></img>
-    <img src="./Github/mob-demo.gif" alt="mob-demo" width="400"></img>
+    <img src="./Github/mob-demo.gif" alt="mob-demo" width="auto"></img>
 </div>
 
 ## 🚀 Key Features 
