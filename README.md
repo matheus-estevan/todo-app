@@ -4,9 +4,9 @@
 
 <p align="center">Welcome to my To-Do web application! This is a simple and intuitive task manager that allows users to create, view, and manage their to-do lists efficiently.</p>
 
-<div align="center">
-    <img src="./Github/desk-demo.gif" alt="desk-demo" height="450"></img>
-    <img src="./Github/mob-demo.gif" alt="mob-demo"></img height="100">
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./Github/desk-demo.gif" alt="desk-demo" width="400"></img>
+    <img src="./Github/mob-demo.gif" alt="mob-demo" width="400"></img>
 </div>
 
 ## 🚀 Key Features 
